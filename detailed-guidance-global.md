@@ -4,7 +4,7 @@
 ## English Versions
 
 
-### Cloud Gudance in English (EN)
+### Cloud Guidance in English (EN)
 
 [Cloud guide for the public sector](cloud_guide_for_the_public_sector_en)
 
